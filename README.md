@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="[demo.gif](https://media3.giphy.com/media/gFwZfXIqD0eNW/giphy.gif?cid=ecf05e47nby7p1w5q8onek8mbv1o9ug070i2s1hgxlpj7p6h&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="animated" />
+  <img src=https://user-images.githubusercontent.com/101104327/236641993-7a772676-9738-4285-a96f-d3585a0b5c74.gif) />
 </p>
