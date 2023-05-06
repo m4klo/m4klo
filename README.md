@@ -1,3 +1,1 @@
-### Hi there 👋
-
-![thumbs-up-terminator](https://user-images.githubusercontent.com/101104327/236641397-d041b92e-9124-4e26-b178-f14489b623b4.gif)
+![giphy](https://user-images.githubusercontent.com/101104327/236641707-ef98df39-4fe9-43e0-9f53-a19077d131db.gif)
